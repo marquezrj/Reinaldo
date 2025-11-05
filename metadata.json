@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Autonomous Tourism News Site",
+  "description": "An AI-powered news dashboard that autonomously generates up-to-date tourism news, summaries, and rankings for any city using Gemini with Google Search grounding.",
+  "requestFramePermissions": []
+}
